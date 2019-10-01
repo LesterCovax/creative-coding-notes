@@ -313,7 +313,7 @@ Math:
 	* [KodeLife](https://hexler.net/software/kodelife)
 	* [editSDF](http://stephaneginier.com/archive/editSDF/)
 	* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
-	* [Snelly] (https://github.com/portsmouth/snelly)
+	* [Snelly](https://github.com/portsmouth/snelly)
 	* [F3 App](http://www.syedrezaali.com/f3-mac-app/)
 	* [Fragment Foundry](http://hughsk.io/fragment-foundry/)
 	* [glsl.io](http://transitions.glsl.io/)
@@ -408,8 +408,8 @@ Math:
 
 #### 3d Scanning
 
-* [https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/](itSeez3d)
-* [https://skanect.occipital.com/](Scanect)
+* [itSeez3d](https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/)
+* [Scanect](https://skanect.occipital.com/)
 
 #### Sound
 
@@ -443,9 +443,9 @@ Math:
 
 #### Motion Capture
 
-* [https://www.neuronmocap.com/](Perception Neuron)
-* [https://getrad.co/](RADiCAL)
-* [https://blacktrax.cast-soft.com/howitworks/](BlackTrax)
+* [Perception Neuron](https://www.neuronmocap.com/)
+* [RADiCAL](https://getrad.co/)
+* [BlackTrax](https://blacktrax.cast-soft.com/howitworks/)
 
 #### Modern input devices
 
